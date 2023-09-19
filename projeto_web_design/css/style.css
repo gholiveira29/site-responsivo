@@ -6,7 +6,7 @@
 }
 
 
-/*Classes Auxiliares*/
+
 .container{
 	max-width: 1280px;
 	margin: 0 auto;
@@ -37,7 +37,7 @@
 
 .clear{clear: both;}
 
-/*Classes do meu site*/
+
 header{
 	padding:8px 0;
 }
@@ -113,7 +113,7 @@ nav.menu-desktop a{
 
 nav.menu-desktop a:hover{text-decoration: underline;}
 
-/*Sessão Main*/
+
 section.main-bg{
 	position: relative;
 	width: 100%;
@@ -346,7 +346,7 @@ footer.footer2{
 	color: white;
 }
 
-/*Página sobre*/
+
 section.title-page{
 	padding:30px;
 	width: 100%;
@@ -382,7 +382,7 @@ section.title-page > .container{position: relative;z-index: 101;}
 	background: rgba(0,0,0,0.4);
 }
 
-/*Sobre container da noticia!*/
+
 section.sobre__noticia{
 	padding:30px 0;
 }
@@ -408,7 +408,7 @@ section.sobre__noticia{
 	margin-top:8px;
 }
 
-/*Efeito paralax na página sobre*/
+
 
 section.paralax{
 	padding: 30px 0;
